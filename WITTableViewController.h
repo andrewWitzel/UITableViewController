@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WITTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Andrew Witzel on 2015-01-10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WITTableViewController : UITableViewController
 
 @end
-
